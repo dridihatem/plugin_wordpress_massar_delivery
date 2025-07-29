@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Massar Delivery for WooCommerce
- * Plugin URI: https://github.com/dridi-hatem/massar-delivery
+ * Plugin URI: https://github.com/dridihatem/plugin_wordpress_massar_delivery
  * Description: Integrates WooCommerce orders with Massar delivery API to automatically create parcels when order status changes to pending.
  * Version: 1.0.0
  * Author: Dridi Hatem
